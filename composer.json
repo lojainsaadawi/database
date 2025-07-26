@@ -1,0 +1,16 @@
+{
+    "name": "hp/session4",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Session4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lojainsaadawi",
+            "email": "lojijaim@gmail.com"
+        }
+    ],
+    "require": {}
+}
